@@ -26,8 +26,7 @@ namespace BT1
         SqlConnection connsql;
         public QLKhoa()
         {
-            InitializeComponent();
-            connsql = kn.connect;
+            
         }
     }
 }
